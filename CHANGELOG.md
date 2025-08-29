@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Aug 29 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Create node.js ([@codecrumbs404](https://github.com/codecrumbs404))
+
+#### Authors: 1
+
+- Code Crumbs 404 ([@codecrumbs404](https://github.com/codecrumbs404))
+
+---
+
 # v0.0.1 (Fri Aug 29 2025)
 
 :tada: This release contains work from a new contributor! :tada:
