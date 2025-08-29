@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "codecrumbs404",
+  "repo": "container-pynu7ii",
+  "name": "codecrumbs404",
+  "email": "hfreak327@gmail.com",
+}
