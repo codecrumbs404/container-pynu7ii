@@ -1,3 +1,15 @@
+# v0.0.3 (Fri Aug 29 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Create .env ([@codecrumbs404](https://github.com/codecrumbs404))
+
+#### Authors: 1
+
+- Code Crumbs 404 ([@codecrumbs404](https://github.com/codecrumbs404))
+
+---
+
 # v0.0.2 (Fri Aug 29 2025)
 
 #### ⚠️ Pushed to `main`
